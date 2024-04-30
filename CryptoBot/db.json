@@ -1,0 +1,60 @@
+{
+    "users": [
+        {
+            "user_id": "518331788880510979",
+            "name": "Chihiro",
+            "mod": "True",
+            "admin": "True",
+            "muted": "False",
+            "mutedby": "0"
+        },
+        {
+            "user_id": "248143211007180810",
+            "name": "Flavius",
+            "mod": "False",
+            "admin": "True",
+            "muted": "False",
+            "mutedby": "0"
+        },
+        {
+            "user_id": "518845141273018369",
+            "name": "\ud835\udd6d\ud835\udd97\ud835\udd94\ud835\udd89\ud835\udd86\ud835\udd93",
+            "mod": "True",
+            "admin": "False",
+            "muted": "False",
+            "mutedby": "0"
+        },
+        {
+            "user_id": "318735911330250752",
+            "name": "Ntzamu",
+            "mod": "False",
+            "admin": "True",
+            "muted": "False",
+            "mutedby": "0"
+        },
+        {
+            "user_id": "354998428830269440",
+            "name": "Thesatung",
+            "mod": "False",
+            "admin": "False",
+            "muted": "False",
+            "mutedby": "0"
+        },
+        {
+            "user_id": "526063499525226505",
+            "name": "Mihai",
+            "mod": "False",
+            "admin": "False",
+            "muted": "False",
+            "mutedby": "0"
+        },
+        {
+            "user_id": "333975635083001858",
+            "name": "Ezitreal",
+            "mod": "False",
+            "admin": "False",
+            "muted": "False",
+            "mutedby": "0"
+        }
+    ]
+}
